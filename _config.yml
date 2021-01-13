@@ -43,6 +43,8 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 # change below value to '/projectname'.
 baseurl: ''
 
+markdown: kramdown
+
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Vancouver
 
