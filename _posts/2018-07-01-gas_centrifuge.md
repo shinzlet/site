@@ -1,8 +1,14 @@
 ---
 title: Gas Centrifuge
 date:  2018-07-01 12:00:00
-categories: [Project, Electronics]
-tags: [cnc milling, 3d printing, arduino, electronics]
+categories:
+  - Project
+  - Electronics
+tags:
+  - cnc milling
+  - 3d printing
+  - arduino
+  - electronics
 ---
 
 <!-- <div class="note">
