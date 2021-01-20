@@ -11,4 +11,4 @@ tags:
 ## Overview
 
 For a machine learning course, [Emily Love](https://github.com/emgineering) and I developed a self-driving vehicle AI.
-[Here's a link to our final paper.](https://docs.google.com/document/d/1yajFDFpvOnS4WVJrF0-tVn3PNjpFTtnWSEXW2fbMqkY/edit?usp=sharing) Enjoy!
+[Here's a link to our final paper](https://docs.google.com/document/d/1yajFDFpvOnS4WVJrF0-tVn3PNjpFTtnWSEXW2fbMqkY/edit?usp=sharing), and [one to the github repo in question](https://github.com/emgineering/controller). Enjoy!
