@@ -1,6 +1,6 @@
 ---
-title: Building a DIY Smarthome with Homeassistant, Proxmox, and MySensors
-date:  2020-01-12 12:00:00
+title: Building a DIY Smart Home with Homeassistant, Proxmox, and MySensors
+date:  2021-01-12 12:00:00
 categories:
   - Project
   - Electronics
@@ -13,7 +13,7 @@ tags:
   - proxmox
 ---
 
-Wherein I build a smarthome out of dissected christmas lights.
+Wherein I build a smart home out of dissected christmas lights.
 
 ![These lights, in particular.](/assets/home_automation/light_prototype.gif)
 _These lights, in particular._
@@ -30,7 +30,7 @@ As the owner of a set of Philips Hue lights (and a set that are old enough to
 have stopped receiving updates), I decided to finally get around to setting up
 [HomeAssistant](https://home-assistant.io), an open-source home automation
 controller. It aims to unify IoT devices by allowing you to control everything
-at one interface, and also allows you to set up a smarthome that stinks a
+at one interface, and also allows you to set up a smart home that stinks a
 little less of corporate spyware.
 
 
@@ -114,9 +114,9 @@ getting started.
 
 
 Although it would seem obvious to use WiFi for communicating with your
-smarthome devices, it can often be too power-hungry. Additionally, WiFi
+smart home devices, it can often be too power-hungry. Additionally, WiFi
 hardware can be a little more expensive than lower frequency radios, which
-makes it a bit of a hard sell for cheap, battery-powered smarthome devices. As
+makes it a bit of a hard sell for cheap, battery-powered smart home devices. As
 a way to mitigate this, MySensors recommends the use of a gateway, which is a
 circuit that connects a low-power mesh network of smart devices to your home
 internet.
