@@ -177,7 +177,7 @@ _The lights showing their animation, and the color at different brightnesses._
 
 ![The gateway and the light controller I built.](/assets/home_automation/lids_off.jpg)
 _The gateway (left) and the light controller (right)._
-![The gateway and the light controller I built.](/assets/home_automation/lids_off.jpg)
+![The gateway and the light controller I built.](/assets/home_automation/lids_on.jpg)
 _The same duo as above, but with their lids on. The design of the controller's
 lid had to account for cable routing through the top plate. Using the USB port
 to power the LEDs would blow out the microcontroller's voltage regulator._
