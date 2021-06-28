@@ -13,7 +13,7 @@ order: 4
 Hi, I'm Seth! I'm an open-source enthusiast, engineering student, and hobbyist.
 This is my blog, where I mostly intend to document personal projects and
 announce software like [Phreak](https://shinzlet.github.io/posts/cli-builder/)
-or [Oildrop](https://shinzlet.github.io/posts/oildrop/)).
+or [Oildrop](https://shinzlet.github.io/posts/oildrop/).
 
 I love to collaborate with others - if you'd like to work together on a project,
 feel free to contact me at [sethhinz@me.com](mailto:sethhinz@me.com). Currently,
