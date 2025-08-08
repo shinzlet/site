@@ -10,7 +10,8 @@ order: 4
 # MIT License
 ---
 
-Hi, I'm Seth! I'm an open-source enthusiast, engineering student, and hobbyist.
+Hi, I'm Seth! I build control systems for scientific instruments and hobby in
+a handful of areas.
 This is my blog, where I mostly intend to document personal projects and
 announce software like [Phreak](https://shinzlet.github.io/posts/cli-builder/)
 or [Oildrop](https://shinzlet.github.io/posts/oildrop/).
